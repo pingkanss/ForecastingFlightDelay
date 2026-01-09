@@ -1,5 +1,4 @@
 # ✈️ Forecasting Flight Departure Delay
-**Backpropagation Neural Network – Data Analysis Project**
 
 ## 📌 Overview
 This project focuses on **forecasting flight departure delay levels** using a **Backpropagation Neural Network (BPNN)** based on historical domestic flight data at **Ahmad Yani International Airport, Semarang**, covering the period **2020–2024**.  
